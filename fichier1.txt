@@ -1,1 +1,2 @@
-initial text
+initial textgit checkout 
+modification 1
